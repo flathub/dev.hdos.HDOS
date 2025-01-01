@@ -3,7 +3,7 @@
     <id>dev.hdos.HDOS</id>
     <name>HDOS</name>
     <developer_name>HDOS</developer_name>
-    <summary>High Detail Old School Runescape Client</summary>
+    <summary>HDOS Client</summary>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>LicenseRef-proprietary</project_license>
     <url type="homepage">https://hdos.dev</url>
@@ -13,10 +13,22 @@
     </description>
 
     <screenshots>
-        <screenshot type="default">https://i.imgur.com/nhdnFuc.png</screenshot>
-        <screenshot>https://www.hdos.dev/static/img/hdos_image1.png</screenshot>
-        <screenshot>https://www.hdos.dev/static/img/hdos_image2.png</screenshot>
-        <screenshot>https://www.hdos.dev/static/img/hdos_image6.png</screenshot>
+        <screenshot type="default">
+            <image>https://github.com/flathub/dev.hdos.HDOS/blob/screenshots/screenshots/1.png</image>
+            <caption>Login screen showcasing the Kingdom of Varlamore</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://github.com/flathub/dev.hdos.HDOS/blob/screenshots/screenshots/2.png</image>
+            <caption>Player exploring the city of Arceuus in the Kingdom of Great Kourend</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://github.com/flathub/dev.hdos.HDOS/blob/screenshots/screenshots/3.png</image>
+            <caption>Player receiving a Serpentine visage as loot from Zulrah</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://github.com/flathub/dev.hdos.HDOS/blob/screenshots/screenshots/4.png</image>
+            <caption>Players fighting the Tumeken's Warden, the final boss of the Tombs of Amascut raid</caption>
+        </screenshot>
     </screenshots>
 
     <releases>
