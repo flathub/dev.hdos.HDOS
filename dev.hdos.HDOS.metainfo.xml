@@ -2,11 +2,14 @@
 <component type="desktop">
     <id>dev.hdos.HDOS</id>
     <name>HDOS</name>
-    <developer_name>HDOS</developer_name>
+    <developer id="dev.hdos">
+    <name>HDOS</name>
+    </developer>
     <summary>HDOS Client</summary>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>LicenseRef-proprietary</project_license>
     <url type="homepage">https://hdos.dev</url>
+    <launchable type="desktop-id">dev.hdos.HDOS.desktop</launchable>
 
     <description>
         <p>HDOS, or High Detail Old School, is a free-to-use third party client for Old School RuneScape that emulates the era of 2008-2011 RuneScape HD.</p>
