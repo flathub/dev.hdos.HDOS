@@ -9,4 +9,4 @@ HDOS is a [official][approval-site] third party client for [Old School RuneScape
 
 The goal of this Flatpack is to make it more convenient for users to use the client.
 
-The package is maintained by @Brainfree.
+The package is maintained by the HDOS team.
