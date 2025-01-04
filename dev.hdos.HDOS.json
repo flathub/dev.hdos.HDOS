@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.gnome.org/GNOME/libnotify/-/archive/0.8.1/libnotify-0.8.1.tar.gz",
-                    "sha256": "7c0b252edecbf08db50d775f9e720ecc03c742fb97c25f3966a8b7a4bedf8133"
+                    "url": "https://gitlab.gnome.org/GNOME/libnotify/-/archive/0.8.3/libnotify-0.8.3.tar.gz",
+                    "sha256": "5bcfeff21b6669c009c862e25c42556723f7a46c2c3454fce0fd532ebed715a0"
                 }
             ],
             "cleanup": [
