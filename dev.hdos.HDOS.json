@@ -1,7 +1,7 @@
 {
     "id": "dev.hdos.HDOS",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "24.08",
+    "runtime-version": "24.08.19",
     "sdk": "org.freedesktop.Sdk",
     "command": "hdos",
     "separate-locales": false,
