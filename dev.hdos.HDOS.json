@@ -1,7 +1,7 @@
 {
     "id": "dev.hdos.HDOS",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "24.08",
+    "runtime-version": "25.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "hdos",
     "separate-locales": false,
@@ -26,25 +26,6 @@
             "buildsystem": "simple",
             "build-commands": [
                 "/usr/lib/sdk/openjdk11/install.sh"
-            ]
-        },
-        {
-            "name": "libnotify",
-            "buildsystem": "meson",
-            "config-opts": ["-Dman=false", "-Dgtk_doc=false", "-Ddocbook_docs=disabled"],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://gitlab.gnome.org/GNOME/libnotify/-/archive/0.8.6/libnotify-0.8.6.tar.gz",
-                    "sha256": "532c40b900b83fa8b6a36f77989470e5ee4d49335fd06cdce10678c215e5f037"
-                }
-            ],
-            "cleanup": [
-                "/include",
-                "/lib/pkgconfig",
-                "/lib/girepository-1.0",
-                "/share/gtk-doc",
-                "/share/gir-1.0"
             ]
         },
         {
